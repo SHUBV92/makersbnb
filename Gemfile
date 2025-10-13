@@ -11,7 +11,7 @@ gem 'dm-postgres-adapter'
 
 
 gem 'dm-rspec'
-gem 'capybara'
+gem 'capybara', '>= 3.30.0'
 gem 'rspec'
-gem 'sinatra'
+gem 'sinatra', '>= 4.2.0'
 
